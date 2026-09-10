@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- Proyecto: allee-effect-dirichlet-bvp ----
+# Figuras generadas por los notebooks (se regeneran corriendo el codigo)
+figuras/*.png
+figuras/*.pdf
+!figuras/.gitkeep
+
+# Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
